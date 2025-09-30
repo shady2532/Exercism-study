@@ -1,0 +1,2 @@
+# Exercism-study
+mostly C#
